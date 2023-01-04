@@ -1,0 +1,16 @@
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\Auto_Delete_File_App.exe.config
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\Auto_Delete_File_App.exe
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\Auto_Delete_File_App.pdb
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\obj\Debug\Auto_Delete_File_App.csproj.AssemblyReference.cache
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\obj\Debug\Auto_Delete_File_App.csproj.CoreCompileInputs.cache
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\obj\Debug\Auto_Delete_File_App.exe
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\obj\Debug\Auto_Delete_File_App.pdb
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.AccessControl.dll
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.Permissions.dll
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.Principal.Windows.dll
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.AccessControl.xml
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.Permissions.xml
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\bin\Debug\System.Security.Principal.Windows.xml
+G:\Console_Applicaton\Auto_Delete_File_App\Auto_Delete_File_App\obj\Debug\Auto_Delete_File_App.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auto_Delete_File_App", "Auto_Delete_File_App\Auto_Delete_File_App.csproj", "{3EEFF857-8412-42E1-8409-6FA51E094A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEFF857-8412-42E1-8409-6FA51E094A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEFF857-8412-42E1-8409-6FA51E094A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEFF857-8412-42E1-8409-6FA51E094A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEFF857-8412-42E1-8409-6FA51E094A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB251DF-B1E0-4E19-8367-1840AF23F456}
+	EndGlobalSection
+EndGlobal
